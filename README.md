@@ -1,5 +1,5 @@
 # STM32_Project
-关于stm32的工程文件
+关于stm32的工程文件   **注**：SCL引脚为PB8，SDA引脚为PB9
 ## OLED显示屏编程
 
 ### I2C通信协议
